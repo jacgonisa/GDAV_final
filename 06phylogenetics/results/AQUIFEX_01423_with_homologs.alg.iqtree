@@ -1,0 +1,147 @@
+IQ-TREE 2.2.6 COVID-edition built Dec  8 2023
+
+Input file name: 06phylogenetics/results/AQUIFEX_01423_with_homologs.alg
+Type of analysis: tree reconstruction
+Random seed number: 853773
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Bui Quang Minh, Heiko A. Schmidt, Olga Chernomor, Dominik Schrempf,
+Michael D. Woodhams, Arndt von Haeseler, and Robert Lanfear (2020)
+IQ-TREE 2: New models and efficient methods for phylogenetic inference
+in the genomic era. Mol. Biol. Evol., in press.
+https://doi.org/10.1093/molbev/msaa015
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 35 sequences with 1668 amino-acid sites
+Number of constant sites: 408 (= 24.4604% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 408 (= 24.4604% of all sites)
+Number of parsimony informative sites: 595
+Number of distinct site patterns: 1431
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: LG
+
+State frequencies: (model)
+
+Model of rate heterogeneity: Uniform
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -37887.9979 (s.e. 1019.0133)
+Unconstrained log-likelihood (without tree): -11918.5318
+Number of free parameters (#branches + #model parameters): 67
+Akaike information criterion (AIC) score: 75909.9958
+Corrected Akaike information criterion (AICc) score: 75915.6908
+Bayesian information criterion (BIC) score: 76273.0943
+
+Total tree length (sum of branch lengths): 27.5512
+Sum of internal branch lengths: 7.3042 (26.5112% of tree length)
+
+NOTE: Tree is UNROOTED although outgroup taxon 'AQUIFEX_01423' is drawn at root
+
++**AQUIFEX_01423
+|
+|                  +----------tr|A0A1D9N7N0|A0A1D9N7N0_CLOPA
+|               +--|
+|               |  +----------tr|A0A1D9N8L1|A0A1D9N8L1_CLOPA
+|            +--|
+|            |  |                                         +-------tr|A0A1D9N929|A0A1D9N929_CLOPA
+|            |  |                       +-----------------|
+|            |  |                       |                 +-------tr|A0A1D9N5D3|A0A1D9N5D3_CLOPA
+|            |  |                 +-----|
+|            |  |                 |     |         +------------tr|A0A1D9N6U0|A0A1D9N6U0_CLOPA
+|            |  |                 |     +---------|
+|            |  |                 |               +---------tr|A0A1D9N7Z8|A0A1D9N7Z8_CLOPA
+|            |  |              +--|
+|            |  |              |  |     +------------------------tr|Q8YR90|Q8YR90_NOSS1
+|            |  |              |  |  +--|
+|            |  |              |  |  |  +------------tr|D5AVB4|D5AVB4_RHOCB
+|            |  |              |  +--|
+|            |  |              |     +------------sp|P09432|NTRC_RHOCB
+|            |  |           +--|
+|            |  |           |  |     +----------tr|D5AMR6|D5AMR6_RHOCB
+|            |  |           |  |  +--|
+|            |  |           |  |  |  |  +-----------------tr|D5ASJ2|D5ASJ2_RHOCB
+|            |  |           |  |  |  +--|
+|            |  |           |  |  |     +----------------------tr|D5AMA7|D5AMA7_RHOCB
+|            |  |           |  +--|
+|            |  |           |     +---------------tr|D5APH1|D5APH1_RHOCB
+|            |  |        +--|
+|            |  |        |  +------------tr|A0A497XQY2|A0A497XQY2_9AQUI
+|            |  |     +--|
+|            |  |     |  |        +----tr|A0A497XPD5|A0A497XPD5_9AQUI
+|            |  |     |  |     +--|
+|            |  |     |  |     |  +--tr|O67198|O67198_AQUAE
+|            |  |     |  |  +--|
+|            |  |     |  |  |  |     +----tr|A0A497XSL5|A0A497XSL5_9AQUI
+|            |  |     |  |  |  +-----|
+|            |  |     |  |  |        +---tr|O66596|O66596_AQUAE
+|            |  |     |  +--|
+|            |  |     |     |       +--tr|A0A497XWM1|A0A497XWM1_9AQUI
+|            |  |     |     |  +----|
+|            |  |     |     |  |    +---tr|O66551|O66551_AQUAE
+|            |  |     |     +--|
+|            |  |     |        +-------------tr|D5AUA6|D5AUA6_RHOCB
+|            |  |  +--|
+|            |  |  |  |   +-----------tr|A0A1D9N3I3|A0A1D9N3I3_CLOPA
+|            |  |  |  +---|
+|            |  |  |      +--------------tr|A0A1D9N167|A0A1D9N167_CLOPA
+|            |  +--|
+|            |     |  +------------tr|A0A1D9MZ79|A0A1D9MZ79_CLOPA
+|            |     +--|
+|            |        +---------------------tr|O66501|O66501_AQUAE
+|         +--|
+|         |  |  +-----------tr|A0A497XPP3|A0A497XPP3_9AQUI
+|         |  +--|
+|         |     +-----tr|O66502|O66502_AQUAE
+|      +--|
+|      |  |    +--tr|A0A497XQD2|A0A497XQD2_9AQUI
+|      |  +----|
+|      |       +--tr|O66591|O66591_AQUAE
+|   +--|
+|   |  |               +--sp|D5ARW9|NIFA_RHOCB
+|   |  |  +------------|
+|   |  |  |            +--tr|D5ANH8|D5ANH8_RHOCB
+|   |  +--|
+|   |     +-----------tr|D5ANJ5|D5ANJ5_RHOCB
++---|
+|   +----tr|A0A497XW95|A0A497XW95_9AQUI
+|
++**tr|O67661|O67661_AQUAE
+
+Tree in newick format:
+
+(AQUIFEX_01423:0.0000010000,((((((tr|A0A1D9N7N0|A0A1D9N7N0_CLOPA:0.6685933227,tr|A0A1D9N8L1|A0A1D9N8L1_CLOPA:0.6661581886):0.1650778904,((((((((tr|A0A1D9N929|A0A1D9N929_CLOPA:0.4821800125,tr|A0A1D9N5D3|A0A1D9N5D3_CLOPA:0.4888399260):1.0923869078,(tr|A0A1D9N6U0|A0A1D9N6U0_CLOPA:0.8120031653,tr|A0A1D9N7Z8|A0A1D9N7Z8_CLOPA:0.6334366492):0.6216564411):0.3959370241,((tr|Q8YR90|Q8YR90_NOSS1:1.5066392241,tr|D5AVB4|D5AVB4_RHOCB:0.7825269268):0.0692363616,sp|P09432|NTRC_RHOCB:0.8180820602):0.1711318676):0.1088482762,((tr|D5AMR6|D5AMR6_RHOCB:0.6755313032,(tr|D5ASJ2|D5ASJ2_RHOCB:1.0884733316,tr|D5AMA7|D5AMA7_RHOCB:1.3702861288):0.0888728484):0.1832453379,tr|D5APH1|D5APH1_RHOCB:0.9951780728):0.1332805649):0.0968818494,tr|A0A497XQY2|A0A497XQY2_9AQUI:0.7680000663):0.0604162655,(((tr|A0A497XPD5|A0A497XPD5_9AQUI:0.3261509420,tr|O67198|O67198_AQUAE:0.1998910983):0.1934020033,(tr|A0A497XSL5|A0A497XSL5_9AQUI:0.3233544461,tr|O66596|O66596_AQUAE:0.2699464869):0.3557796356):0.1243289994,((tr|A0A497XWM1|A0A497XWM1_9AQUI:0.2058486946,tr|O66551|O66551_AQUAE:0.2614325155):0.2960315070,tr|D5AUA6|D5AUA6_RHOCB:0.8269228084):0.1074818467):0.0647160580):0.1274650619,(tr|A0A1D9N3I3|A0A1D9N3I3_CLOPA:0.7291164547,tr|A0A1D9N167|A0A1D9N167_CLOPA:0.9282692194):0.2402414104):0.1306592950,(tr|A0A1D9MZ79|A0A1D9MZ79_CLOPA:0.8178987042,tr|O66501|O66501_AQUAE:1.3132954137):0.1406014122):0.0927148596):0.1366607342,(tr|A0A497XPP3|A0A497XPP3_9AQUI:0.7080410338,tr|O66502|O66502_AQUAE:0.3620863009):0.0478644546):0.1889502053,(tr|A0A497XQD2|A0A497XQD2_9AQUI:0.0753376421,tr|O66591|O66591_AQUAE:0.0820261562):0.3261109804):0.0818800910,((sp|D5ARW9|NIFA_RHOCB:0.0121870162,tr|D5ANH8|D5ANH8_RHOCB:0.0078879811):0.8122579573,tr|D5ANJ5|D5ANJ5_RHOCB:0.7303114690):0.1295454431):0.2294794672,tr|A0A497XW95|A0A497XW95_9AQUI:0.3111508735):0.2910173420,tr|O67661|O67661_AQUAE:0.0000010000);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t 06phylogenetics/results/AQUIFEX_01423_with_homologs.alg.treefile -m "LG" --length 1668
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s 06phylogenetics/results/AQUIFEX_01423_with_homologs.alg --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s 06phylogenetics/results/AQUIFEX_01423_with_homologs.alg --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Sat Jan 27 22:09:04 2024
+Total CPU time used: 269.408 seconds (0h:4m:29s)
+Total wall-clock time used: 270.359 seconds (0h:4m:30s)
+

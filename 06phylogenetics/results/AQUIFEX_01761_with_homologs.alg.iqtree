@@ -1,0 +1,134 @@
+IQ-TREE 2.2.6 COVID-edition built Dec  8 2023
+
+Input file name: 06phylogenetics/results/AQUIFEX_01761_with_homologs.alg
+Type of analysis: tree reconstruction
+Random seed number: 935393
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Bui Quang Minh, Heiko A. Schmidt, Olga Chernomor, Dominik Schrempf,
+Michael D. Woodhams, Arndt von Haeseler, and Robert Lanfear (2020)
+IQ-TREE 2: New models and efficient methods for phylogenetic inference
+in the genomic era. Mol. Biol. Evol., in press.
+https://doi.org/10.1093/molbev/msaa015
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 27 sequences with 402 amino-acid sites
+Number of constant sites: 89 (= 22.1393% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 89 (= 22.1393% of all sites)
+Number of parsimony informative sites: 208
+Number of distinct site patterns: 370
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: LG
+
+State frequencies: (model)
+
+Model of rate heterogeneity: Uniform
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -7105.0160 (s.e. 232.6230)
+Unconstrained log-likelihood (without tree): -2360.4837
+Number of free parameters (#branches + #model parameters): 51
+Akaike information criterion (AIC) score: 14312.0321
+Corrected Akaike information criterion (AICc) score: 14327.1864
+Bayesian information criterion (BIC) score: 14515.8512
+
+Total tree length (sum of branch lengths): 7.2635
+Sum of internal branch lengths: 2.3674 (32.5933% of tree length)
+
+WARNING: 1 near-zero internal branches (<0.0025) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'AQUIFEX_01761' is drawn at root
+
++**AQUIFEX_01761
+|
+|                  +**sp|P00456|NIFH1_CLOPA
+|               +--|
+|               |  +**tr|A0A1D9N1X8|A0A1D9N1X8_CLOPA
+|            +--|
+|            |  |  +**sp|P09554|NIFH5_CLOPA
+|            |  +--|
+|            |     +**tr|A0A1D9N1N2|A0A1D9N1N2_CLOPA
+|         +--|
+|         |  |        +**sp|P09555|NIFH6_CLOPA
+|         |  |     +**|
+|         |  |     |  +**tr|A0A1D9N2X1|A0A1D9N2X1_CLOPA
+|         |  |  +--|
+|         |  |  |  +--sp|P09552|NIFH2_CLOPA
+|         |  +--|
+|         |     |     +**sp|P22548|NIFH4_CLOPA
+|         |     |  +--|
+|         |     |  |  +**tr|A0A1D9N7I5|A0A1D9N7I5_CLOPA
+|         |     +--|
+|         |        +--tr|A0A1D9N1X3|A0A1D9N1X3_CLOPA
+|      +--|
+|      |  |        +------tr|D7DT99|D7DT99_METV3
+|      |  |    +---|
+|      |  |    |   +----------tr|Q6M0X1|Q6M0X1_METMP
+|      |  +----|
+|      |       |                      +-------sp|Q8YM62|CHLL_NOSS1
+|      |       |        +-------------|
+|      |       |        |             +--------sp|D5ANS3|BCHL_RHOCB
+|      |       |     +--|
+|      |       |     |  +--------------------sp|P26177|BCHX_RHOCB
+|      |       |  +--|
+|      |       |  |  +-------------------------------------tr|Q6LY48|Q6LY48_METMP
+|      |       +--|
+|      |          +-----------tr|D5AKX6|D5AKX6_RHOCB
+|   +--|
+|   |  |         +**sp|P00457|NIFH1_NOSS1
+|   |  |      +--|
+|   |  |      |  |  +**tr|G3FD00|G3FD00_NOSS1
+|   |  |      |  +--|
+|   |  |      |     +**tr|H7BT35|H7BT35_NOSS1
+|   |  |  +---|
+|   |  |  |   +--sp|O30577|NIFH2_NOSS1
+|   |  +--|
+|   |     +--sp|D5ANI3|NIFH1_RHOCB
++---|
+|   |     +**sp|P09553|NIFH3_CLOPA
+|   |  +--|
+|   |  |  +**tr|A0A1D9N950|A0A1D9N950_CLOPA
+|   +--|
+|      +--tr|D5ANJ6|D5ANJ6_RHOCB
+|
++**sp|P0CW57|NIFH_METMP
+
+Tree in newick format:
+
+(AQUIFEX_01761:0.0000010000,((((((sp|P00456|NIFH1_CLOPA:0.0000010000,tr|A0A1D9N1X8|A0A1D9N1X8_CLOPA:0.0000010000):0.0041654805,(sp|P09554|NIFH5_CLOPA:0.0000010000,tr|A0A1D9N1N2|A0A1D9N1N2_CLOPA:0.0000010000):0.0032818708):0.0256882455,(((sp|P09555|NIFH6_CLOPA:0.0000010000,tr|A0A1D9N2X1|A0A1D9N2X1_CLOPA:0.0000010000):0.0000010000,sp|P09552|NIFH2_CLOPA:0.0037243730):0.0560240179,((sp|P22548|NIFH4_CLOPA:0.0000010000,tr|A0A1D9N7I5|A0A1D9N7I5_CLOPA:0.0000010000):0.0232158622,tr|A0A1D9N1X3|A0A1D9N1X3_CLOPA:0.0313786832):0.0157724067):0.0116338990):0.1198605840,((tr|D7DT99|D7DT99_METV3:0.2959440065,tr|Q6M0X1|Q6M0X1_METMP:0.4746827131):0.1829523880,((((sp|Q8YM62|CHLL_NOSS1:0.3332258355,sp|D5ANS3|BCHL_RHOCB:0.3874053001):0.5550474566,sp|P26177|BCHX_RHOCB:0.8572331993):0.0868630586,tr|Q6LY48|Q6LY48_METMP:1.5334476328):0.1346359902,tr|D5AKX6|D5AKX6_RHOCB:0.4749720286):0.1196782914):0.1983114954):0.0883547742,(((sp|P00457|NIFH1_NOSS1:0.0000010000,(tr|G3FD00|G3FD00_NOSS1:0.0000010000,tr|H7BT35|H7BT35_NOSS1:0.0000010000):0.0204475726):0.0930754129,sp|O30577|NIFH2_NOSS1:0.0661368127):0.1605017605,sp|D5ANI3|NIFH1_RHOCB:0.1582471918):0.1493409460):0.1283311673,((sp|P09553|NIFH3_CLOPA:0.0000010000,tr|A0A1D9N950|A0A1D9N950_CLOPA:0.0000010000):0.1083711430,tr|D5ANJ6|D5ANJ6_RHOCB:0.1202040710):0.0700103740):0.1713391358,sp|P0CW57|NIFH_METMP:0.0000010000);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t 06phylogenetics/results/AQUIFEX_01761_with_homologs.alg.treefile -m "LG" --length 402
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s 06phylogenetics/results/AQUIFEX_01761_with_homologs.alg --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s 06phylogenetics/results/AQUIFEX_01761_with_homologs.alg --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Sat Jan 27 22:09:57 2024
+Total CPU time used: 33.5324 seconds (0h:0m:33s)
+Total wall-clock time used: 33.9147 seconds (0h:0m:33s)
+

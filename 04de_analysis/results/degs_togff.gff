@@ -1,0 +1,5 @@
+Aquifex_genome	Prodigal:002006	CDS	1264237	1265730	.	-	0	ID=AQUIFEX_01423;Name=nifA;gene=nifA;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P03027;locus_tag=AQUIFEX_01423;product=Nif-specific regulatory protein
+Aquifex_genome	Prodigal:002006	CDS	1526912	1528321	.	-	0	ID=AQUIFEX_01723;inference=ab initio prediction:Prodigal:002006;locus_tag=AQUIFEX_01723;product=hypothetical protein
+Aquifex_genome	Prodigal:002006	CDS	1545764	1546519	.	-	0	ID=AQUIFEX_01749;inference=ab initio prediction:Prodigal:002006;locus_tag=AQUIFEX_01749;product=hypothetical protein
+Aquifex_genome	Prodigal:002006	CDS	1552368	1553273	.	+	0	ID=AQUIFEX_01759;eC_number=4.-.-.-;Name=nifB;db_xref=COG:COG0535;gene=nifB;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q8KC85;locus_tag=AQUIFEX_01759;product=FeMo cofactor biosynthesis protein NifB
+Aquifex_genome	Prodigal:002006	CDS	1554885	1555712	.	+	0	ID=AQUIFEX_01761;eC_number=1.18.6.1;Name=nifH1;db_xref=COG:COG1348;gene=nifH1;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P00459;locus_tag=AQUIFEX_01761;product=Nitrogenase iron protein 1

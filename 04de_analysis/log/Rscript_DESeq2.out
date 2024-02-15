@@ -1,0 +1,43 @@
+ ###SET UP###
+Looking for .count files in  deseq2_normcounts.csv deseq2_results_padj_0.05.csv deseq2_results_total.csv hightemp01.count hightemp02.count normal01.count normal02.count[1] "hightemp01.count" "hightemp02.count" "normal01.count"   "normal02.count"  
+  sampleName         fileName condition replicate
+1 hightemp01 hightemp01.count  hightemp      Rep1
+2 hightemp02 hightemp02.count  hightemp      Rep2
+3   normal01   normal01.count    normal      Rep1
+4   normal02   normal02.count    normal      Rep2
+###MINIMAL PREFILTERING###
+###RUNNING DESEQ2###
+
+out of 1508 with nonzero total read count
+adjusted p-value < 0.1
+LFC > 0 (up)       : 3, 0.2%
+LFC < 0 (down)     : 2, 0.13%
+outliers [1]       : 0, 0%
+low counts [2]     : 0, 0%
+(mean count < 3)
+[1] see 'cooksCutoff' argument of ?results
+[2] see 'independentFiltering' argument of ?results
+
+log2 fold change (MLE): condition hightemp vs normal 
+Wald test p-value: condition hightemp vs normal 
+DataFrame with 6 rows and 6 columns
+               baseMean log2FoldChange     lfcSE      stat    pvalue      padj
+              <numeric>      <numeric> <numeric> <numeric> <numeric> <numeric>
+AQUIFEX_00001   444.191      0.1022797  0.119366  0.856855  0.391525  0.997834
+AQUIFEX_00002   146.104     -0.2518636  0.201777 -1.248229  0.211947  0.997834
+AQUIFEX_00004   140.601      0.1181308  0.203517  0.580447  0.561613  0.997834
+AQUIFEX_00005   121.139      0.0901044  0.218270  0.412811  0.679745  0.997834
+AQUIFEX_00007   186.484     -0.0511764  0.175365 -0.291828  0.770418  0.997834
+AQUIFEX_00008   135.618      0.1651852  0.209609  0.788062  0.430661  0.997834
+DataFrame with 6 rows and 2 columns
+                       type            description
+                <character>            <character>
+baseMean       intermediate mean of normalized c..
+log2FoldChange      results log2 fold change (ML..
+lfcSE               results standard error: cond..
+stat                results Wald statistic: cond..
+pvalue              results Wald test p-value: c..
+padj                results   BH adjusted p-values
+[1] "Intercept"                    "condition_hightemp_vs_normal"
+###CREATING OUTPUT###
+###WE'RE DONE!###

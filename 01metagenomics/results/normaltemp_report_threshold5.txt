@@ -1,0 +1,6 @@
+Aquifex aeolicus [ref_mOTU_v31_10705]	0.4007923073
+Methanococcus maripaludis [ref_mOTU_v31_01426]	0.3775970279
+Streptococcus sp. [ref_mOTU_v31_00283]	0.0607427286
+Pseudomonas sp. [ref_mOTU_v31_00146]	0.0601271070
+Sphingomonas sp. [ref_mOTU_v31_01336]	0.0586549162
+unassigned	0.0420859131

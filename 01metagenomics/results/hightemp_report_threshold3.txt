@@ -1,0 +1,10 @@
+Aquifex aeolicus [ref_mOTU_v31_10705]	0.9050938825
+Methanococcus maripaludis [ref_mOTU_v31_01426]	0.0832982117
+Desulfofundulus australicus/thermocisternus [ref_mOTU_v31_02213]	0.0017500811
+Bacillus vietnamensis [ref_mOTU_v31_04124]	0.0016939191
+Bradyrhizobium sp. BTAi1 [ref_mOTU_v31_02667]	0.0016556137
+Planctomycetaceae species incertae sedis [meta_mOTU_v31_13845]	0.0016444214
+Pseudomonas sp. [ref_mOTU_v31_00131]	0.0016169227
+Desulfotomaculum ruminis [ref_mOTU_v31_11808]	0.0014541241
+Fusobacterium massiliense [ref_mOTU_v31_10166]	0.0014541241
+unassigned	0.0003386997

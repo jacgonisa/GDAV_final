@@ -1,0 +1,3 @@
+Aquifex aeolicus [ref_mOTU_v31_10705]	0.9154098245
+Methanococcus maripaludis [ref_mOTU_v31_01426]	0.0842476155
+unassigned	0.0003425600

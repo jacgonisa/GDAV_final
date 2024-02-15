@@ -1,0 +1,45 @@
+[34m[1m2024-01-14 22:32:20[0m [34m[1mMap reads to the marker gene database[0m
+   [36mReads are aligned (by BWA) to marker gene sequences in the reference database[0m
+   [36mReads are filtered for:[0m
+   [36m - similarity to the reference gene (>97%), and[0m
+   [36m - length of the alignment (at least 75 nucleotides, -l option)[0m
+   
+   Number of detected lanes: 1
+
+   [1m2024-01-14 22:32:20[0m Run bwa on lane 1
+   [35m[1mWarning: [0m[35mfile metagenomics-hotspring-hightemp.1.fq.gz. The length of the first 2500 reads is 150. It is suggested to quality control the reads before profiling[0m
+   [35m[1mWarning: [0m[35mfile metagenomics-hotspring-hightemp.2.fq.gz. The length of the first 2500 reads is 150. It is suggested to quality control the reads before profiling[0m
+     map forward reads: 8.57 s
+     map reverse reads: 6.80 s
+     sort alignments: 0.08 s
+   Total number of reads: 54103
+   Number of reads after filtering: 51866 (95.87 percent)
+   
+   Total time for mapping reads: 15.51 s
+   
+[34m[1m2024-01-14 22:32:36[0m [34m[1mCalculate marker gene cluster (MGC) abundance[0m
+   [36mAbundance of MGCs are quantified by the number of inserts aligning to their[0m
+   [36mmember genes[0m
+   [36mInserts can either map to one MGC ('Unique mappers'), or map to many[0m
+   [36mMGCs from different species ('Multiple mappers')
+[0m
+   Total number of inserts: 51866
+     - Unique mappers: 51755
+     - Multiple mappers: 100
+     - Ignored multiple mapper without unique hit: 11
+   
+   Total time to calculate the MGCs: 10.40 s
+   
+[34m[1m2024-01-14 22:32:46[0m [34m[1mGenerate mOTU profile[0m
+   [36mEach mOTU is composed of 6 to 10 MGCs[0m
+   [36mThe final mOTU insert count is obtained as the median of its MGC read counts
+[0m
+   At least 4 (-g) MGCs need to be detected to consider a mOTU as being present
+
+   Create taxonomy profile
+     Number of ref-mOTUs:  2
+     Number of meta-mOTUs: 0
+     Number of ext-mOTUs:  0
+   
+[34m[1m2024-01-14 22:32:47[0m [34m[1mFinished computation[0m
+[34m[1m2024-01-14 22:32:47[0m [34m[1mTotal time: 27.28 s[0m

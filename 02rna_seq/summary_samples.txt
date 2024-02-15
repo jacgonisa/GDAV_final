@@ -1,0 +1,9 @@
+file                        format  type  num_seqs     sum_len  min_len  avg_len  max_len
+RNAseq/hightemp01.r1.fq.gz  FASTQ   DNA    318,719  31,871,900      100      100      100
+RNAseq/hightemp01.r2.fq.gz  FASTQ   DNA    318,719  31,871,900      100      100      100
+RNAseq/hightemp02.r1.fq.gz  FASTQ   DNA    318,719  31,871,900      100      100      100
+RNAseq/hightemp02.r2.fq.gz  FASTQ   DNA    318,719  31,871,900      100      100      100
+RNAseq/normal01.r1.fq.gz    FASTQ   DNA    288,742  28,874,200      100      100      100
+RNAseq/normal01.r2.fq.gz    FASTQ   DNA    288,742  28,874,200      100      100      100
+RNAseq/normal02.r1.fq.gz    FASTQ   DNA    288,742  28,874,200      100      100      100
+RNAseq/normal02.r2.fq.gz    FASTQ   DNA    288,742  28,874,200      100      100      100

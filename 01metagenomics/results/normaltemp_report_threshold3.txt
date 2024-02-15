@@ -1,0 +1,191 @@
+Aquifex aeolicus [ref_mOTU_v31_10705]	0.0333818811
+Methanococcus maripaludis [ref_mOTU_v31_01426]	0.0314499527
+Streptococcus pneumoniae [ref_mOTU_v31_00282]	0.0091936821
+Clostridiales species incertae sedis [meta_mOTU_v31_12841]	0.0055220382
+Oscillibacter sp. 57_20 [meta_mOTU_v31_12610]	0.0054808489
+Desulfallas alcoholivorax [ref_mOTU_v31_06842]	0.0054004846
+Clostridiales species incertae sedis [meta_mOTU_v31_13425]	0.0053533873
+Sulfurospirillum multivorans [ref_mOTU_v31_02709]	0.0053507949
+Bacteroidales species incertae sedis [meta_mOTU_v31_12811]	0.0053471697
+Arenitalea lutea [ref_mOTU_v31_02914]	0.0053447556
+Planctomycetaceae species incertae sedis [meta_mOTU_v31_13845]	0.0053394543
+Mycoplasma hyopneumoniae [ref_mOTU_v31_02023]	0.0053368794
+Alcanivorax borkumensis [ref_mOTU_v31_01970]	0.0053334624
+Virgibacillus massiliensis [ref_mOTU_v31_04145]	0.0053169903
+Flavobacterium psychrophilum [ref_mOTU_v31_02253]	0.0053040474
+Clostridiales species incertae sedis [meta_mOTU_v31_13690]	0.0052969278
+Leptolyngbya sp. PCC 7376 [ref_mOTU_v31_06692]	0.0052919550
+Sporolactobacillus vineae [ref_mOTU_v31_02445]	0.0052918541
+Prevotella species incertae sedis [meta_mOTU_v31_13337]	0.0052851043
+Streptococcus oralis [ref_mOTU_v31_00292]	0.0052766912
+Hippea sp. KM1 [ref_mOTU_v31_12178]	0.0052746155
+Orenia marismortui [ref_mOTU_v31_12099]	0.0052733335
+Bacillus subtilis [ref_mOTU_v31_00278]	0.0052625103
+Coprococcus catus [ref_mOTU_v31_11851]	0.0052616150
+Flavobacterium antarcticum [ref_mOTU_v31_01959]	0.0052616150
+Aeromonas diversa/schubertii [ref_mOTU_v31_03761]	0.0052560823
+Candidatus Izimaplasma sp. HR1 [ref_mOTU_v31_08548]	0.0052520658
+Streptococcus oralis [ref_mOTU_v31_00296]	0.0052513521
+Clostridium sp. [ref_mOTU_v31_03680]	0.0052507760
+Halorubrum sp. [ref_mOTU_v31_02271]	0.0052354378
+Corynebacterium nuruki [ref_mOTU_v31_11980]	0.0052340673
+Clostridiales species incertae sedis [meta_mOTU_v31_12252]	0.0052330019
+Advenella kashmirensis [ref_mOTU_v31_08265]	0.0052267698
+Methylobacterium brachiatum [ref_mOTU_v31_01131]	0.0052267698
+Methylopila sp. M107 [ref_mOTU_v31_06651]	0.0052267698
+Nitrosococcus halophilus [ref_mOTU_v31_11292]	0.0052267698
+Kandleria vitulina [ref_mOTU_v31_04327]	0.0052236250
+Oribacterium sp. [ref_mOTU_v31_04294]	0.0052224466
+Pseudomonas furukawaii [ref_mOTU_v31_02421]	0.0052210071
+Gillisia sp. [ref_mOTU_v31_03553]	0.0052021617
+Clostridiales species incertae sedis [meta_mOTU_v31_14245]	0.0052002969
+Oscillatoriales cyanobacterium JSC-12 [ref_mOTU_v31_11984]	0.0051943934
+Oxalobacter formigenes [ref_mOTU_v31_11479]	0.0051923832
+Desulfovibrio sp. L21-Syr-AB [ref_mOTU_v31_07904]	0.0051889694
+Citrobacter sedlakii [ref_mOTU_v31_00101]	0.0051873611
+Caballeronia cordobensis [ref_mOTU_v31_01467]	0.0051703731
+Flavobacteriaceae species incertae sedis [meta_mOTU_v31_13617]	0.0051697090
+Halomonas zincidurans [ref_mOTU_v31_08309]	0.0051691150
+Rickettsia typhi [ref_mOTU_v31_00755]	0.0051647754
+Colwellia psychrerythraea [ref_mOTU_v31_03729]	0.0051580212
+Knoellia flava [ref_mOTU_v31_08104]	0.0051478210
+Mannheimia sp. USDA-ARS-USMARC-1261 [ref_mOTU_v31_02309]	0.0051472320
+Chlorobium phaeovibrioides [ref_mOTU_v31_10831]	0.0051461581
+Blastococcus sp. URHD0036 [ref_mOTU_v31_08069]	0.0051440370
+Gammaproteobacteria bacterium MOLA455 [ref_mOTU_v31_08213]	0.0051406583
+Xanthomonas cannabis [ref_mOTU_v31_01740]	0.0051401212
+Pseudomonas fluorescens/migulae [ref_mOTU_v31_00163]	0.0051360667
+Collinsella tanakaei [ref_mOTU_v31_11862]	0.0051297082
+Thiomicrorhabdus arctica [ref_mOTU_v31_07128]	0.0051249496
+Clostridiales species incertae sedis [meta_mOTU_v31_13417]	0.0051219261
+Actinobacteria sp. [ref_mOTU_v31_03277]	0.0051138806
+Clostridiales species incertae sedis [meta_mOTU_v31_13710]	0.0051138806
+Pseudomonas sp. [ref_mOTU_v31_00131]	0.0051138806
+Mycobacterium genavense [ref_mOTU_v31_04310]	0.0051028593
+Rhizobium tropici [ref_mOTU_v31_04610]	0.0051028593
+Bradyrhizobium sp. BTAi1 [ref_mOTU_v31_02667]	0.0050984641
+Capnocytophaga sputigena [ref_mOTU_v31_01074]	0.0050933073
+Halococcus salifodinae [ref_mOTU_v31_07451]	0.0050918855
+Sporolactobacillus terrae [ref_mOTU_v31_01532]	0.0050918855
+Streptacidiphilus carbonis/jeojiense [ref_mOTU_v31_01431]	0.0050886025
+Coraliomargarita sp. CAG:312 [meta_mOTU_v31_13526]	0.0050871968
+Thalassospira tepidiphila/profundimaris [ref_mOTU_v31_02908]	0.0050813497
+Halovivax ruber [ref_mOTU_v31_03392]	0.0050809587
+Neisseria sp. [ref_mOTU_v31_04794]	0.0050804180
+Polynucleobacter asymbioticus [ref_mOTU_v31_06188]	0.0050800891
+Listeria monocytogenes/innocua [ref_mOTU_v31_00711]	0.0050785553
+Zavarzinella formosa [ref_mOTU_v31_07126]	0.0050731825
+Alcaligenes faecalis [ref_mOTU_v31_01541]	0.0050592452
+Halomonas huangheensis [ref_mOTU_v31_02913]	0.0050592452
+Pelagibacteraceae species incertae sedis [meta_mOTU_v31_12794]	0.0050592452
+Streptococcus sp. [ref_mOTU_v31_00283]	0.0050592452
+Streptococcus thoraltensis [ref_mOTU_v31_02456]	0.0050592452
+Firmicutes species incertae sedis [meta_mOTU_v31_13945]	0.0050484579
+Acidobacteria species incertae sedis [meta_mOTU_v31_12517]	0.0050443211
+Serratia plymuthica [ref_mOTU_v31_00832]	0.0050435935
+Streptomyces ochraceiscleroticus/violens [ref_mOTU_v31_01899]	0.0050421339
+marine actinobacterium MedAcidi-G3 [meta_mOTU_v31_12695]	0.0050350383
+Chloroflexi species incertae sedis [meta_mOTU_v31_13442]	0.0050324411
+Kribbella flavida [ref_mOTU_v31_06022]	0.0050315990
+Anaerovibrio sp. RM50 [ref_mOTU_v31_02120]	0.0050307905
+Vibrio maritimus/variabilis [ref_mOTU_v31_03274]	0.0050182612
+Coprobacillus sp. CAG:605 [meta_mOTU_v31_12448]	0.0050178889
+Paenibacillus alvei [ref_mOTU_v31_02027]	0.0050163702
+Pasteurellaceae sp. [ref_mOTU_v31_01838]	0.0050154042
+Pseudomonas sp. [ref_mOTU_v31_00146]	0.0050079702
+Gilliamella apicola [ref_mOTU_v31_02997]	0.0050067271
+Rahnella aquatilis [ref_mOTU_v31_02719]	0.0050067271
+Bacteroidaceae species incertae sedis [meta_mOTU_v31_13789]	0.0050042534
+Mesorhizobium sp. LNHC252B00 [ref_mOTU_v31_00777]	0.0050042534
+Prevotella sp. oral taxon 306 [ref_mOTU_v31_01841]	0.0050042534
+Bacteria species incertae sedis [meta_mOTU_v31_13032]	0.0049991591
+Bergeyella zoohelcum [ref_mOTU_v31_06465]	0.0049952041
+Bradyrhizobium japonicum [ref_mOTU_v31_01190]	0.0049952041
+Chloroflexus sp. MS-G [ref_mOTU_v31_04670]	0.0049935407
+Deinococcus proteolyticus [ref_mOTU_v31_11799]	0.0049914874
+Massilia alkalitolerans [ref_mOTU_v31_00436]	0.0049894625
+Flavobacteriaceae species incertae sedis [meta_mOTU_v31_12905]	0.0049859228
+Lactobacillus kullabergensis [ref_mOTU_v31_03218]	0.0049742158
+Gemmatimonas sp. SG8_23 [meta_mOTU_v31_12953]	0.0049731711
+Nocardioides sp. JS614 [ref_mOTU_v31_10610]	0.0049714000
+Flavobacteriaceae species incertae sedis [meta_mOTU_v31_12630]	0.0049637877
+Clostridiales species incertae sedis [meta_mOTU_v31_12287]	0.0049630623
+Bacillus trypoxylicola [ref_mOTU_v31_04488]	0.0049521082
+Bacillus vietnamensis [ref_mOTU_v31_04124]	0.0049521082
+Desulfofundulus australicus/thermocisternus [ref_mOTU_v31_02213]	0.0049521082
+Rhizobium leguminosarum [ref_mOTU_v31_01043]	0.0049451269
+Agrobacterium deltaense/tumefaciens [ref_mOTU_v31_01397]	0.0049430621
+Massiliomicrobiota species incertae sedis [meta_mOTU_v31_13965]	0.0049389377
+Erysipelothrix tonsillarum [ref_mOTU_v31_02244]	0.0049327640
+Clostridium sp. CAG:349 [ref_mOTU_v31_07622]	0.0049289133
+Verrucomicrobia species incertae sedis [meta_mOTU_v31_12370]	0.0049289133
+Xanthomonas campestris [ref_mOTU_v31_01726]	0.0049289133
+Acetobacter aceti [ref_mOTU_v31_06300]	0.0049276364
+Thioalkalivibrio sp. AKL19 [ref_mOTU_v31_02779]	0.0049215786
+Acidimicrobium ferrooxidans [ref_mOTU_v31_11408]	0.0049173972
+Chlorobaculum parvum [ref_mOTU_v31_11379]	0.0049173972
+Paraglaciecola chathamensis/agarilytica [ref_mOTU_v31_02525]	0.0049159550
+Leptospirillum ferrooxidans [ref_mOTU_v31_07226]	0.0049146953
+Actinobacillus minor [ref_mOTU_v31_06387]	0.0049109684
+Streptomyces olindensis [ref_mOTU_v31_00625]	0.0048977799
+Brevibacillus borstelensis [ref_mOTU_v31_03958]	0.0048960437
+Acetobacter sp. CAG:977 [ref_mOTU_v31_07582]	0.0048945256
+Desulfovibrio vulgaris [ref_mOTU_v31_06176]	0.0048926233
+Photorhabdus sp. [ref_mOTU_v31_00763]	0.0048888409
+Polaribacter sp. Hel_I_88 [ref_mOTU_v31_03556]	0.0048883247
+Sphingomonas sp. [ref_mOTU_v31_01336]	0.0048853518
+Psychrobacter sp. 1501(2011) [ref_mOTU_v31_06492]	0.0048847884
+Roseburia species incertae sedis [meta_mOTU_v31_13251]	0.0048831693
+Marinobacter psychrophilus [ref_mOTU_v31_01351]	0.0048621984
+Desulfotomaculum ruminis [ref_mOTU_v31_11808]	0.0048618619
+Candidatus Phytoplasma mali [ref_mOTU_v31_11047]	0.0048568754
+Lacinutrix sp. [ref_mOTU_v31_05934]	0.0048568754
+Streptococcus suis [ref_mOTU_v31_00796]	0.0048562119
+Pseudomonas xanthomarina/stutzeri [ref_mOTU_v31_00221]	0.0048438343
+Anaerofustis stercorihominis [ref_mOTU_v31_11219]	0.0048286926
+Bacteroidetes bacterium SCGC AAA027-N21 [ref_mOTU_v31_12159]	0.0048271697
+Butyricicoccus species incertae sedis [meta_mOTU_v31_12617]	0.0048161235
+Aeromonas salmonicida [ref_mOTU_v31_00056]	0.0048124527
+Cyanothece sp. [ref_mOTU_v31_06269]	0.0048026912
+Clostridiales species incertae sedis [meta_mOTU_v31_12426]	0.0047941822
+Spiribacter salinus [ref_mOTU_v31_07572]	0.0047884076
+Bacteria species incertae sedis [meta_mOTU_v31_13722]	0.0047773350
+Mycolicibacterium rufum [ref_mOTU_v31_03995]	0.0047746052
+Acidipropionibacterium thoenii [ref_mOTU_v31_07014]	0.0047708944
+Acidaminococcus species incertae sedis [meta_mOTU_v31_13306]	0.0047616425
+Acidobacteriaceae bacterium TAA166 [ref_mOTU_v31_10804]	0.0047527872
+Verrucomicrobium sp. BvORR106 [ref_mOTU_v31_04255]	0.0047401937
+Brachyspira hyodysenteriae [ref_mOTU_v31_01333]	0.0047365869
+Peptostreptococcaceae bacterium oral taxon 113 [ref_mOTU_v31_07937]	0.0047348616
+Clostridium sp. CAG:1219 [meta_mOTU_v31_13348]	0.0047260015
+Anaerococcus obesiensis/vaginalis [ref_mOTU_v31_01019]	0.0047189372
+Bacteroidetes species incertae sedis [meta_mOTU_v31_14228]	0.0047083803
+Dethiosulfovibrio peptidovorans [ref_mOTU_v31_11276]	0.0047062746
+Parabacteroides distasonis [ref_mOTU_v31_03640]	0.0047041368
+Acinetobacter gyllenbergii/proteolyticus [ref_mOTU_v31_00272]	0.0046978705
+Streptomyces bingchenggensis [ref_mOTU_v31_02764]	0.0046684475
+Aeromonas sp. [ref_mOTU_v31_00050]	0.0046544062
+Altibacter lentus [ref_mOTU_v31_07426]	0.0046289868
+Fusobacterium massiliense [ref_mOTU_v31_10166]	0.0046289868
+Aeromonas lacus/jandaei [ref_mOTU_v31_00051]	0.0045852854
+Holdemania massiliensis [ref_mOTU_v31_07383]	0.0045753174
+Gardnerella vaginalis [ref_mOTU_v31_03578]	0.0045703496
+Clostridiales species incertae sedis [meta_mOTU_v31_12253]	0.0045583298
+Verrucomicrobia species incertae sedis [meta_mOTU_v31_14244]	0.0045515700
+[Clostridium] sphenoides/guttoideum [ref_mOTU_v31_01830]	0.0045296004
+Lebetimonas sp. [ref_mOTU_v31_06477]	0.0045202878
+Enterobacter sp. [ref_mOTU_v31_00077]	0.0044897912
+Clostridiales bacterium DRI-13 [ref_mOTU_v31_08319]	0.0044752497
+Corynebacterium ulceribovis [ref_mOTU_v31_06815]	0.0044296193
+Betaproteobacteria species incertae sedis [meta_mOTU_v31_13733]	0.0044215252
+Avibacterium paragallinarum [ref_mOTU_v31_03785]	0.0043706397
+Mycoplasma hyosynoviae [ref_mOTU_v31_06171]	0.0043535821
+Flavobacteriaceae species incertae sedis [meta_mOTU_v31_12678]	0.0043382699
+Lysinibacillus massiliensis [ref_mOTU_v31_07378]	0.0042926929
+Dickeya sp. [ref_mOTU_v31_01756]	0.0042236189
+Marinobacter lipolyticus [ref_mOTU_v31_01352]	0.0042130369
+Nocardia veterana [ref_mOTU_v31_03089]	0.0037493693
+unassigned	0.0035053241
+Lactobacillus species incertae sedis [meta_mOTU_v31_14384]	0.0029152842
+Eggerthella species incertae sedis [meta_mOTU_v31_13368]	0.0019817759
+Eggerthella sp. CAG:1427 [ref_mOTU_v31_07669]	0.0018397255

@@ -1,0 +1,33 @@
+Aquifex aeolicus [ref_mOTU_v31_10705]	0.1560831747
+Methanococcus maripaludis [ref_mOTU_v31_01426]	0.1470500850
+Planctomycetaceae species incertae sedis [meta_mOTU_v31_13845]	0.0249656085
+Leptolyngbya sp. PCC 7376 [ref_mOTU_v31_06692]	0.0247435167
+Hippea sp. KM1 [ref_mOTU_v31_12178]	0.0246624428
+Streptococcus oralis [ref_mOTU_v31_00296]	0.0245536705
+Clostridiales species incertae sedis [meta_mOTU_v31_14245]	0.0243149526
+Colwellia psychrerythraea [ref_mOTU_v31_03729]	0.0241172844
+Chlorobium phaeovibrioides [ref_mOTU_v31_10831]	0.0240618162
+Thalassospira tepidiphila/profundimaris [ref_mOTU_v31_02908]	0.0237587927
+Polynucleobacter asymbioticus [ref_mOTU_v31_06188]	0.0237528985
+Streptococcus sp. [ref_mOTU_v31_00283]	0.0236554388
+Chloroflexi species incertae sedis [meta_mOTU_v31_13442]	0.0235301115
+Pseudomonas sp. [ref_mOTU_v31_00146]	0.0234156933
+Nocardioides sp. JS614 [ref_mOTU_v31_10610]	0.0232447023
+Clostridiales species incertae sedis [meta_mOTU_v31_12287]	0.0232057180
+Acetobacter aceti [ref_mOTU_v31_06300]	0.0230400778
+Paraglaciecola chathamensis/agarilytica [ref_mOTU_v31_02525]	0.0229854591
+Actinobacillus minor [ref_mOTU_v31_06387]	0.0229621431
+Desulfovibrio vulgaris [ref_mOTU_v31_06176]	0.0228763675
+Sphingomonas sp. [ref_mOTU_v31_01336]	0.0228423684
+Streptococcus suis [ref_mOTU_v31_00796]	0.0227061190
+Anaerofustis stercorihominis [ref_mOTU_v31_11219]	0.0225774476
+Bacteria species incertae sedis [meta_mOTU_v31_13722]	0.0223373154
+Brachyspira hyodysenteriae [ref_mOTU_v31_01333]	0.0221467901
+Parabacteroides distasonis [ref_mOTU_v31_03640]	0.0219950639
+Aeromonas sp. [ref_mOTU_v31_00050]	0.0217625392
+[Clostridium] sphenoides/guttoideum [ref_mOTU_v31_01830]	0.0211789864
+Enterobacter sp. [ref_mOTU_v31_00077]	0.0209928512
+Corynebacterium ulceribovis [ref_mOTU_v31_06815]	0.0207115064
+Dickeya sp. [ref_mOTU_v31_01756]	0.0197483134
+unassigned	0.0163897929
+Lactobacillus species incertae sedis [meta_mOTU_v31_14384]	0.0136309518

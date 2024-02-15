@@ -22,7 +22,7 @@ tail -n +4 01metagenomics/hightemp.motus | awk -F"\t" '$2 > 0 {print}' | wc -l
 
 ##There are 10 species detected
 
-#Question1.1 Adapted from https://motu-tool.org/tutorial.html:
+# Question1.1 Adapted from https://motu-tool.org/tutorial.html:
 cat ids.txt | parallel 'tail -n +4 01metagenomics/{}.motus | awk -F"\t" '\''$2 > 0 {print $NF, $0}'\'' | sort -k1,1nr | cut -f 2- -d " " > 01metagenomics/results/{}_report_threshold3.txt'
 
 ```

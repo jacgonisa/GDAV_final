@@ -53,7 +53,7 @@ I am just practising to get info directly from terminal, but a web-based search 
 efetch -db taxonomy -id 224324 -format xml
 ```
 ## Question1.3
-##I am just practising to get info directly from terminal, but a web-based search was done anyways
+I am just practising to get info directly from terminal, but a web-based search was done anyways
 ```
 efetch -db nuccore -id NC_000918.1 -format gb > 01metagenomics/NC_000918.1.gb
 ```

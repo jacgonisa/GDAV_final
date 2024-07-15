@@ -1,6 +1,6 @@
-#1. I wrote extract_fasta.py
+## 1. I wrote extract_fasta.py
 
-______
+```
 import argparse
 from Bio import SeqIO
 
@@ -27,14 +27,15 @@ def main():
 
 if __name__ == "__main__":
     main()
-________
+```
 
-
+```
 python 05comparative/extract_fasta.py --ids_file 04de_analysis/results/degs_ids.txt --proteome_file proteome.faa --output_file 05comparative/degs.faa
+```
 
+## 2. I wrote divide_fasta.py
 
-#2. I wrote divide_fasta.py
-_____________________________________
+```
 from Bio import SeqIO
 import os
 import argparse
@@ -65,10 +66,11 @@ if __name__ == "__main__":
     # Divide the FASTA file into individual files
     divide_fasta(args.input_file, args.output_dir)
 
-_______________________________________
+```
 
+```
 python 05comparative/divide_fasta.py 05comparative/degs.faa 05comparative/
-
+```
 Sequence 'AQUIFEX_01423' saved to '05comparative/AQUIFEX_01423.fa'
 Sequence 'AQUIFEX_01723' saved to '05comparative/AQUIFEX_01723.fa'
 Sequence 'AQUIFEX_01749' saved to '05comparative/AQUIFEX_01749.fa'
